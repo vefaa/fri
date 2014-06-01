@@ -1,0 +1,14 @@
+.
+..
+bong.txt
+fro.txt
+.git
+japo10.txt
+japo.txt
+list.txt
+long9.txt
+long.txt
+ong.txt
+rush.txt
+wow.txt
+y.txt
